@@ -16,3 +16,5 @@
 - [Mateusz Kłosinski](https://github.com/mklosinski1/mklosinski/) gr. 2
 - [Kacper Cichoszewski](https://github.com/kcichoszewski444/ug) gr. 2
 - [Michał Mówka](https://github.com/beobeb/UG) gr. 2
+- [Paulina Szynaka](https://github.com/paulina9876/SPJP) gr. 4
+- 
